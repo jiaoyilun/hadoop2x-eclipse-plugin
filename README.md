@@ -1,7 +1,8 @@
 hadoop2x-eclipse-plugin
 =======================
 
-eclipse plugin for hadoop 2.x.x
+eclipse plugin for hadoop 2.x.x  
+基于 hadoop 2.8.0修改，自编译，亲测可用，不会出现 no filesystem for scheme: hdfs错误
  
 
 How to build
